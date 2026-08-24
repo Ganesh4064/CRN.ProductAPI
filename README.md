@@ -126,3 +126,17 @@ CRN.ProductAPI
 
 └── Properties
 
+## Copyright
+
+
+
+Copyright © 2026 Ganesh N. All rights reserved.
+
+
+
+This project is published for portfolio and demonstration purposes.
+
+
+
+Unauthorized copying, redistribution, or claiming this project as your own is not permitted.
+
