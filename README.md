@@ -36,6 +36,8 @@ A production-style RESTful Web API built with ASP.NET Core 8, Entity Framework C
 
 \- Swagger/OpenAPI documentation
 
+\- Environment-based configuration for secrets
+
 
 
 \## Technology Stack
@@ -61,6 +63,10 @@ A production-style RESTful Web API built with ASP.NET Core 8, Entity Framework C
 \- Docker Compose
 
 \- Swagger / OpenAPI
+
+\- AutoMapper
+
+\- FluentValidation
 
 
 
@@ -114,5 +120,9 @@ CRN.ProductAPI
 
 │
 
-└── Migrations
+├── Migrations
+
+│
+
+└── Properties
 
